@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/redux-basics/static/css/main.dda8d3e2.css",
+    "main.js": "/redux-basics/static/js/main.7eecdfa6.js",
+    "static/media/page-not-found.png": "/redux-basics/static/media/page-not-found.6f5b123471bc09721371.png",
+    "index.html": "/redux-basics/index.html",
+    "main.dda8d3e2.css.map": "/redux-basics/static/css/main.dda8d3e2.css.map",
+    "main.7eecdfa6.js.map": "/redux-basics/static/js/main.7eecdfa6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dda8d3e2.css",
+    "static/js/main.7eecdfa6.js"
+  ]
+}
